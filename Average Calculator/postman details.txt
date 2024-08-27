@@ -1,0 +1,18 @@
+{
+    "companyName": "Onlinego",
+    "clientID": "9644b730-7b2d-46fb-90ec-92ce55019414",
+    "clientSecret": "HhzqbqsfSssBRXrP",
+    "ownerName": "Prachi Mishra",
+    "ownerEmail": "prachi06092002@gmail.com",
+    "rollNo": "VU21CSEN0200008"
+}
+
+
+
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0NzM4NTMyLCJpYXQiOjE3MjQ3MzgyMzIsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6Ijk2NDRiNzMwLTdiMmQtNDZmYi05MGVjLTkyY2U1NTAxOTQxNCIsInN1YiI6InByYWNoaTA2MDkyMDAyQGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6Ik9ubGluZWdvIiwiY2xpZW50SUQiOiI5NjQ0YjczMC03YjJkLTQ2ZmItOTBlYy05MmNlNTUwMTk0MTQiLCJjbGllbnRTZWNyZXQiOiJIaHpxYnFzZlNzc0JSWHJQIiwib3duZXJOYW1lIjoiUHJhY2hpIE1pc2hyYSIsIm93bmVyRW1haWwiOiJwcmFjaGkwNjA5MjAwMkBnbWFpbC5jb20iLCJyb2xsTm8iOiJWVTIxQ1NFTjAyMDAwMDgifQ.dAes1eAoI9LwT0kXrV5hLRJzm4A2nV6Xxgr_cSJJEyA",
+    "expires_in": 1724738532
+}
